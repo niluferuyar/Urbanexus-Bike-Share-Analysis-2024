@@ -219,7 +219,7 @@ Time-based categorizations derived from calculated or extracted fields.
   
 ## Dashboards
 
-- **Tableau Public:** [Interactive dashboards](https://public.tableau.com/views/Urbanexus_bike_share_analysis_2024/Story1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Tableau Public:** [Interactive dashboards](https://public.tableau.com/views/Urbanexus_Bike_Share_Analysis_2024/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Dashboard screenshots:** See the [dashboards](./dashboards/) folder for selected screenshots and brief descriptions. 
 
 ## Limitations and Assumptions
