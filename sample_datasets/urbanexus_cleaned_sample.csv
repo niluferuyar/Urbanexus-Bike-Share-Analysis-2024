@@ -1,0 +1,51 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,cleaned_ss_name,start_station_id,end_station_name,cleaned_es_name,end_station_id,s_lat,s_lng,e_lat,e_lng,member_casual
+26E28E8DBA649C28,electric_bike,2024-08-04 07:22:03 UTC,2024-08-04 07:33:17 UTC,,,,,,,41.92,-87.81,41.93,-87.86,member
+9654AC0E90E02368,electric_bike,2024-03-06 15:11:20 UTC,2024-03-06 17:41:42 UTC,,,,,,,41.94,-87.82,41.94,-87.86,casual
+C4C59BD3BF68B71E,electric_bike,2024-06-26 20:28:27 UTC,2024-06-27 02:39:29 UTC,,,,,,,41.89,-87.77,41.86,-87.85,member
+3430354A71393383,electric_bike,2024-01-07 18:08:35 UTC,2024-01-07 18:21:51 UTC,,,,Public Rack - N. Oakview and W. Gregory St,N. Oakview and W. Gregory St,1180,41.97,-87.84,41.9801,-87.844,casual
+AF1E648FC7B4D879,electric_bike,2024-09-01 13:26:49 UTC,2024-09-01 13:43:52 UTC,,,,Public Rack - Delphina & Foster,Delphina & Foster,1181,41.97,-87.85,41.9736,-87.8411,casual
+4B11458C4B492783,electric_bike,2024-03-21 15:35:21 UTC,2024-03-21 15:39:14 UTC,,,,Public Rack - Delphina & Foster,Delphina & Foster,1181,41.98,-87.84,41.9736,-87.8411,casual
+C40AC5FDF2F39C90,electric_bike,2024-08-20 22:00:12 UTC,2024-08-20 22:12:07 UTC,,,,,,,41.98,-87.81,41.98,-87.84,member
+578AB72DAA395AEC,electric_bike,2024-11-04 15:19:33 UTC,2024-11-04 15:19:46 UTC,,,,,,,41.98,-87.84,41.98,-87.84,casual
+7795FE1D73D32AD4,electric_bike,2024-07-13 18:50:56 UTC,2024-07-13 18:51:30 UTC,,,,,,,41.98,-87.84,41.98,-87.84,casual
+A49D15AD40EB9746,electric_bike,2024-08-22 17:27:33 UTC,2024-08-22 17:30:57 UTC,,,,,,,41.98,-87.84,41.98,-87.84,casual
+B06060A971C5C9E6,electric_bike,2024-08-13 22:39:13 UTC,2024-08-13 22:40:25 UTC,,,,,,,41.98,-87.84,41.98,-87.84,casual
+594C2CD5C3E51B01,electric_bike,2024-06-23 13:38:36 UTC,2024-06-23 13:38:38 UTC,,,,,,,41.94,-87.84,41.94,-87.84,casual
+EFEFBE67801E019D,electric_bike,2024-08-05 00:34:50 UTC,2024-08-05 00:35:10 UTC,,,,,,,41.96,-87.84,41.96,-87.84,casual
+D89F823436896E16,electric_bike,2024-09-05 23:16:49 UTC,2024-09-05 23:25:28 UTC,,,,,,,41.98,-87.84,41.98,-87.84,casual
+7340405B864282CF,electric_bike,2024-05-22 19:58:20 UTC,2024-05-22 20:20:51 UTC,,,,Public Rack - Cumberland & Catherine,Cumberland & Catherine,1182,41.98,-87.78,41.9774,-87.8367,member
+F266B02108AF5606,electric_bike,2024-06-29 01:01:56 UTC,2024-06-29 01:16:13 UTC,,,,,,,41.98,-87.84,41.94,-87.83,casual
+956087693B9041A9,electric_bike,2024-08-30 23:43:18 UTC,2024-08-30 23:54:46 UTC,,,,,,,41.98,-87.84,41.94,-87.83,casual
+87F84ECF90757F95,electric_bike,2024-11-29 08:58:02 UTC,2024-11-29 09:02:52 UTC,,,,,,,41.98,-87.81,41.99,-87.82,member
+865BFF7E2CF9A53D,electric_bike,2024-12-18 08:44:06 UTC,2024-12-18 08:49:30 UTC,,,,,,,41.98,-87.81,41.99,-87.82,member
+E6460E6CD1BC7762,electric_bike,2024-03-16 15:40:13 UTC,2024-03-16 15:47:04 UTC,,,,,,,41.98,-87.83,41.97,-87.82,casual
+B11D946872E00CEA,electric_bike,2024-08-16 19:45:02 UTC,2024-08-16 19:50:38 UTC,,,,Public Rack - W. Talcott & N. Oriole,W. Talcott & N. Oriole,1185,41.98,-87.81,41.9906,-87.8169,casual
+B794E63437C7A591,electric_bike,2024-03-31 20:06:13 UTC,2024-03-31 20:16:31 UTC,,,,Public Rack - Oketo Ave & Belmont Ave,Oketo Ave & Belmont Ave,579,41.93,-87.81,41.9381,-87.8119,member
+7DB2C9BE29E27DF3,electric_bike,2024-09-23 13:48:25 UTC,2024-09-23 13:49:17 UTC,,,,,,,41.91,-87.81,41.91,-87.81,casual
+CAA06F6788AAAA79,electric_bike,2024-05-17 17:52:07 UTC,2024-05-17 18:00:28 UTC,,,,,,,41.94,-87.81,41.95,-87.81,casual
+4A5232B12EE9F88D,electric_bike,2024-06-05 12:38:53 UTC,2024-06-05 12:40:40 UTC,,,,,,,41.95,-87.81,41.95,-87.81,casual
+5AB2C42353CD1792,electric_bike,2024-08-21 23:55:56 UTC,2024-08-22 00:00:56 UTC,,,,,,,41.93,-87.81,41.92,-87.81,casual
+8C149B06E9164C35,electric_bike,2024-06-28 12:15:28 UTC,2024-06-28 12:29:12 UTC,,,,,,,41.97,-87.76,42,-87.81,casual
+0478D0A98306B7C4,electric_bike,2024-09-23 15:47:35 UTC,2024-09-23 16:18:15 UTC,,,,,,,41.94,-87.84,41.93,-87.81,casual
+DD104CEC0B2B111D,electric_bike,2024-09-21 17:42:09 UTC,2024-09-21 17:48:15 UTC,,,,,,,41.97,-87.81,41.98,-87.81,member
+57D30479840F308A,electric_bike,2024-09-01 15:53:52 UTC,2024-09-01 16:14:15 UTC,,,,,,,41.98,-87.81,42.02,-87.81,casual
+C72DEBC5B37220FC,electric_bike,2024-09-09 08:38:27 UTC,2024-09-09 08:45:13 UTC,,,,,,,41.98,-87.81,41.98,-87.81,member
+BB6FE8698EFD67D9,electric_bike,2024-09-24 15:39:30 UTC,2024-09-24 15:47:25 UTC,,,,,,,41.97,-87.81,41.97,-87.81,member
+65C1EE4FB2A93007,electric_bike,2024-05-17 17:50:54 UTC,2024-05-17 17:51:13 UTC,,,,,,,41.94,-87.81,41.94,-87.81,casual
+D474E5A31A6EF301,electric_bike,2024-05-09 07:54:32 UTC,2024-05-09 07:57:25 UTC,,,,,,,41.98,-87.81,41.98,-87.81,member
+E3CC7CFB5606B3A9,electric_bike,2024-09-10 16:32:07 UTC,2024-09-10 17:01:38 UTC,,,,Public Rack - Octavia Ave & Touhy Ave,Octavia Ave & Touhy Ave,1173,41.96,-87.75,42.0117,-87.8083,casual
+0781CBCA19678AFD,electric_bike,2024-07-24 16:24:17 UTC,2024-07-24 16:32:19 UTC,,,,Harlem Ave & Irving Park Rd,Harlem Ave & Irving Park Rd,21326,41.95,-87.8,41.9533,-87.8071,casual
+3EBF2A99B243B3BD,electric_bike,2024-08-24 16:14:09 UTC,2024-08-24 16:31:46 UTC,,,,Harlem Ave & Irving Park Rd,Harlem Ave & Irving Park Rd,21326,41.93,-87.78,41.9533,-87.8071,member
+A60018420A4FC970,electric_bike,2024-07-09 16:39:20 UTC,2024-07-09 16:56:59 UTC,,,,Nordica Ave & Medill Ave,Nordica Ave & Medill Ave,21378,41.96,-87.79,41.9223,-87.802,member
+CC0ABAB086FC4B7C,electric_bike,2024-01-08 12:42:06 UTC,2024-01-08 12:50:41 UTC,,,,Sayre & Diversey,Sayre & Diversey,352,41.93,-87.78,41.931,-87.8011,casual
+81603138C2DFCAD5,electric_bike,2024-06-21 19:55:33 UTC,2024-06-21 19:57:28 UTC,,,,Sayre Ave & Diversey Ave,Sayre Ave & Diversey Ave,21352,41.93,-87.8,41.931,-87.8011,member
+D6B07B0046C07545,electric_bike,2024-10-05 18:21:58 UTC,2024-10-05 18:27:22 UTC,,,,Sayre Ave & Diversey Ave,Sayre Ave & Diversey Ave,21352,41.94,-87.8,41.931,-87.8011,casual
+BB98642C601822A4,electric_scooter,2024-09-13 17:59:19 UTC,2024-09-13 18:07:41 UTC,,,,,,,41.91,-87.79,41.93,-87.8,casual
+6703B3951CAC2E08,electric_bike,2024-07-12 14:30:01 UTC,2024-07-12 14:30:15 UTC,,,,,,,41.95,-87.8,41.95,-87.8,casual
+7F0F6CA18AA6A39E,electric_bike,2024-03-14 13:22:21 UTC,2024-03-14 13:32:53 UTC,,,,,,,41.93,-87.8,41.94,-87.8,casual
+685C2DD7AA714DC9,electric_bike,2024-10-06 16:17:50 UTC,2024-10-06 16:23:23 UTC,,,,,,,41.94,-87.8,41.94,-87.8,casual
+C1E316ED7D42871E,electric_bike,2024-03-23 02:08:29 UTC,2024-03-23 02:43:08 UTC,,,,,,,41.96,-87.74,41.96,-87.8,casual
+D883FE9E5092406E,electric_bike,2024-08-31 15:05:47 UTC,2024-08-31 15:45:04 UTC,,,,Shabbona Park,Shabbona Park,21395,41.95,-87.65,41.9448,-87.7993,member
+BE6F2D92BE421515,electric_bike,2024-07-15 20:01:41 UTC,2024-07-15 20:07:34 UTC,,,,Public Rack - Norwood Park Station,Norwood Park Station,1275,42,-87.79,41.9919,-87.7992,member
+1192D99A446285AA,electric_bike,2024-09-12 05:50:27 UTC,2024-09-12 05:56:19 UTC,,,,Public Rack - Norwood Park Station,Norwood Park Station,1275,41.98,-87.78,41.9919,-87.7992,casual
+F63EDB6C0EE6BFED,electric_bike,2024-04-30 17:07:31 UTC,2024-04-30 17:24:05 UTC,,,,Oak Park & Wellington,Oak Park & Wellington,318,41.94,-87.78,41.9346,-87.796,casual

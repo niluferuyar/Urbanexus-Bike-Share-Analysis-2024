@@ -1,0 +1,51 @@
+ride_id,member_casual,cleaned_station_name,latitude,longitude,rideable_type,community_area,place_type
+000001F70CA28603,Annual Member,900 W Harrison St,41.874754,-87.649807,Classic Bike,Near West Side,Institutional
+000001F70CA28603,Annual Member,Peoria St & Jackson Blvd,41.8776415963,-87.6496177912,Classic Bike,Near West Side,Business/Commercial
+00001004F8DF01C8,Casual Rider,Woodlawn Ave & 55th St,41.795264,-87.596471,Classic Bike,Hyde Park,Institutional
+00001004F8DF01C8,Casual Rider,Prairie Ave & Garfield Blvd,41.794853,-87.618691,Classic Bike,Washington Park,Residential/Commercial
+00001352515FD211,Annual Member,Calumet Ave & 33rd St,41.83472,-87.61797,Classic Bike,Douglas,Institutional
+00001352515FD211,Annual Member,MLK Jr Dr & 29th St,41.842052,-87.617,Classic Bike,Douglas,Residential/Commercial
+000017F398759373,Annual Member,Western Ave & Granville Ave,41.994161369,-87.689438282,Classic Bike,West Ridge,Residential
+000017F398759373,Annual Member,Maplewood Ave & Peterson Ave,41.9902360287,-87.6933696402,Classic Bike,West Ridge,Business/Commercial
+000018486CBEF63A,Annual Member,Wolcott Ave & Polk St,41.871262,-87.673688,Classic Bike,Near West Side,Institutional
+000018486CBEF63A,Annual Member,Western Ave & Fillmore St,41.868563,-87.686234,Classic Bike,Near West Side,Business/Commercial
+5A9AD83D2D4C5F84,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+7F0BB5B14F899461,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+1F76960C6B030293,Casual Rider,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+7311FAD9EB7CC328,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+7F4E587CB2B13D4B,Casual Rider,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+F3F037A94FDDFAEB,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+A04EC5F3B3AB5CCA,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+C5BD588A5EEC7064,Casual Rider,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+14924883FB24569A,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+C5A1B9EE12694E15,Annual Member,Lincolnwood Dr & Central St,42.064854,-87.715297,Classic Bike,Unassigned,Leisure/Recreation
+000001F70CA28603,Annual Member,Peoria St & Jackson Blvd,41.8776415963,-87.6496177912,Classic Bike,Near West Side,Business/Commercial
+000001F70CA28603,Annual Member,900 W Harrison St,41.874754,-87.649807,Classic Bike,Near West Side,Institutional
+00001352515FD211,Annual Member,Calumet Ave & 33rd St,41.83472,-87.61797,Classic Bike,Douglas,Institutional
+00001352515FD211,Annual Member,MLK Jr Dr & 29th St,41.842052,-87.617,Classic Bike,Douglas,Residential/Commercial
+000017F398759373,Annual Member,Maplewood Ave & Peterson Ave,41.9902360287,-87.6933696402,Classic Bike,West Ridge,Business/Commercial
+000017F398759373,Annual Member,Western Ave & Granville Ave,41.994161369,-87.689438282,Classic Bike,West Ridge,Residential
+000018486CBEF63A,Annual Member,Wolcott Ave & Polk St,41.871262,-87.673688,Classic Bike,Near West Side,Institutional
+000018486CBEF63A,Annual Member,Western Ave & Fillmore St,41.868563,-87.686234,Classic Bike,Near West Side,Business/Commercial
+000019B6351D28DF,Annual Member,Racine Ave & 15th St,41.861267,-87.656625,Electric Bike,Near West Side,Residential/Commercial
+000019B6351D28DF,Annual Member,May St & Taylor St,41.869375,-87.65544,Electric Bike,Near West Side,Residential
+60A7948694186AC8,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+6CEA6117082EA2DD,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+3B8419DA2B3D7EFA,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+3B8DAD10150EDD2D,Casual Rider,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+858E59CAE5605FCE,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+EE49E88A5513B8B5,Casual Rider,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+9F1916CEF0E535CA,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+A0BEB4A844BAF5AF,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+879695BFE982ED71,Annual Member,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+774A004FA7FC00FA,Casual Rider,2112 W Peterson Ave,41.991178,-87.683593,Classic Bike,West Ridge,Residential/Commercial
+0EB4AE23F4949AD9,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+5F945F3E0F5AA07E,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+BD5D5A70E1F62FD1,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+7EA47F564B236AB1,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Electric Bike,East Side,Leisure/Recreation
+3F3A15C4DCDC40AF,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+0C8C1EC0279ACC4C,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+0B5246051B6BDC6E,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+9BE0001AEA8B9E26,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Electric Bike,East Side,Leisure/Recreation
+C60AA3B082C557AD,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Classic Bike,East Side,Leisure/Recreation
+48F0BB6EFECB089C,Annual Member,Burnham Greenway & 105th St,41.7045750872,-87.52823174,Electric Bike,East Side,Leisure/Recreation
