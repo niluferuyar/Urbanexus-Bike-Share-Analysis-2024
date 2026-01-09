@@ -1,7 +1,6 @@
 # <img src="./images/Urbanexus_Logo_1.png" width="160" alt="Urbanexus logo" /> Urbanexus-Bike-Share-Analysis-2024 
 
-## Interactive Dashboard (Tableau)
-- **Tableau Public Story:** [Interactive dashboards](https://public.tableau.com/views/Urbanexus_Bike_Share_Analysis_2024/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tableau Public Story:** [Interactive dashboards](https://public.tableau.com/views/Urbanexus_Bike_Share_Analysis_2024/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 URBANEXUS is a fictional bike-share company based in Chicago. This project explores rider preferences based on rideable type, season, day of week, time of day, and station-level demand grouped by urban area type (e.g. business, commercial, residential, etc.).
 
